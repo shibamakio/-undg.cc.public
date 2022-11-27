@@ -4,12 +4,21 @@
 	<title />
 	<link rel="self" href="/" />
 	<rights>Copyright © 2022</rights>
-	<updated>2022-11-27T16:54:32Z</updated>
+	<updated>2022-11-27T17:32:25Z</updated>
+	<entry>
+		<id>/posts/test02</id>
+		<title>てすと2タイトル</title>
+		<link href="/posts/test02" />
+		<updated>2022-11-28T00:00:00Z</updated>
+		<content>&lt;p&gt;てすと2タイトル！&lt;/p&gt;
+</content>
+		<summary>&lt;p&gt;てすと2タイトル！&lt;/p&gt;</summary>
+	</entry>
 	<entry>
 		<id>/posts/test01</id>
 		<title>This Is An Example Post     //pageのタイトル</title>
 		<link href="/posts/test01" />
-		<updated>2022-11-27T16:53:56Z</updated>
+		<updated>2022-11-27T17:31:43Z</updated>
 		<content>&lt;p&gt;てすとてすと&lt;/p&gt;
 </content>
 		<summary>&lt;p&gt;てすとてすと&lt;/p&gt;</summary>
